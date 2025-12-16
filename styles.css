@@ -1,7 +1,7 @@
 .login-button {
-    background-color: grey;
+    background-color: blue;      /*  we changed the color */
     color: white;
-    padding: 10px;
-    border: none;
+    padding: 15px;               /* we increased the paddins */
+    border-radius: 20px;         /* added rounded corners */
     font-size: 12px;
 }
