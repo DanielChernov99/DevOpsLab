@@ -1,7 +1,7 @@
 .login-button {
-    background-color: blue;      /*  we changed the color */
+    background-color: red;      /* our conflict will be here */
     color: white;
-    padding: 15px;               /* we increased the paddins */
-    border-radius: 20px;         /* added rounded corners */
+    padding: 15px;               
+    border-radius: 20px;         
     font-size: 12px;
 }
